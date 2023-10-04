@@ -1,4 +1,4 @@
-### | Olá! Eu sou Pedro Rodrigues 😉
+### | Olá! Eu sou Maísa Souza😉
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorsrodrigues1203@gmail.com)
@@ -9,7 +9,7 @@
 
 <div>
     <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=maimaiss&show_icons=true&theme=radical"/>
-    <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eupedrorodrigues&layout=compact&langs_count=8&theme=radical"/>  
+    <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maimaiss&layout=compact&langs_count=8&theme=radical"/>  
 </div>
 
 
