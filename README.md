@@ -30,12 +30,5 @@
   <a href="http://www.linkedin.com/in/maísa-souza-14627b287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
---
-
-<div>
-    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=maimaiss&show_icons=true&theme=radical"/>
-    <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maimaiss&layout=compact&langs_count=8&theme=radical"/>  
-</div>
-
 
 
