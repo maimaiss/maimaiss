@@ -1,6 +1,7 @@
 ### | Olá! Eu sou Maísa Souza 😉
 
-    
+<br>
+
 ### | Tecnologias:
 
 <div style="display: inline_block">
