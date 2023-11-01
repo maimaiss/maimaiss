@@ -1,8 +1,16 @@
 ### | Olá! Eu sou Maísa Souza 😉
 
-<br>
+---
 
 ### | Tecnologias:
+
+<br>
+
+<div>
+<img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=maimaiss&show_icons=true&theme=tokyonight&count_private=true
+</div>
+
+<br>
 
 <div style="display: inline_block">
     <img align="center"  alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
@@ -14,7 +22,7 @@
     <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="33" width="45"/>
 </div>
  
-<br>
+---
  
 ### | Para entrar em contato as minhas redes sociais estão abaixo!
  
