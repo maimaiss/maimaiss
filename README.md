@@ -4,7 +4,6 @@
 
 ### | Tecnologias:
 
-<br>
 
 <div>
 <img width="350px" align="leaft" src= https://github-readme-stats.vercel.app/api/top-langs/?username=maimaiss&show_icons=true&theme=tokyonight&count_private=true
