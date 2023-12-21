@@ -12,13 +12,17 @@
 <br>
 
 <div style="display: inline_block">
-    <img align="center"  alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40"/>
-    <img align="center"  alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" />
-    <img align="center"  alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="30" width="40"/>
-    <img align="center"  alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="30" width="40"/>
-    <img align="center"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="30" width="40"/>
-    <img align="center"  alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  height="30" width="40"/>
-    <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="33" width="45"/>
+    <img align="center"  alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+    <img align="center"  alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
+    <img align="center"  alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="40" width="40"/>
+    <img align="center"  alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  height="40" width="40"/>
+    <img align="center"  alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" width="40"/>
+    <img align="center"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="40" width="40"/>
+    <img align="center"  alt="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="40" width="40"/>
+    <img align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"/>
+    <img align="center" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
+
+
 </div>
  
 ---
